@@ -11,3 +11,26 @@ main{
 p{
     background-color: bisque;
 }
+
+table{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+}
+
+tr{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+}
+td{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+}
