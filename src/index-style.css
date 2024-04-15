@@ -1,0 +1,13 @@
+*{
+    font-family: "Comic Neue", cursive;
+    font-size: 18px;
+    background-color: beige;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+p{
+    background-color: bisque;
+}
