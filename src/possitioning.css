@@ -1,0 +1,42 @@
+*{
+    font-family: "Comic Neue", cursive;
+    font-size: 18px;
+    background-color: beige;
+}
+#boxback{
+    background-color: gray;
+    width: 700px;
+    height: 500px;
+    position: relative;
+}
+#boxred{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: sticky;
+    right: 0%;
+}
+
+#boxgreen{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    position: static;
+    top: 0%;
+}
+
+#boxblue{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: static;
+    top: 0%;
+}
+
+aside{
+    width: 5%;
+    background-color: black;
+    height: 500%;
+    position: absolute;
+    right: 0%;
+}
