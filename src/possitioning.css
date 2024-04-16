@@ -36,7 +36,14 @@
     border: solid black 2px;
     left: 10%;
 }
+#boxyellow{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: static;
     border: solid black 2px;
+    top: 0%;
+}
 
 aside{
     width: 5%;
