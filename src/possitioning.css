@@ -27,7 +27,6 @@
     border: solid black 2px;
     top: 2%;
 }
-
 #boxblue{
     background-color: blue;
     width: 100px;
@@ -40,9 +39,19 @@
     background-color: yellow;
     width: 100px;
     height: 100px;
-    position: static;
+    position: absolute;
     border: solid black 2px;
-    top: 0%;
+    top: 15%;
+    left: 5%;
+}
+#boxpurple{
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    border: solid black 2px;
+    top: 50%;
+    left: 5%;
 }
 
 aside{
