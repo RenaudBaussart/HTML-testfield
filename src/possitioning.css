@@ -8,12 +8,14 @@
     width: 700px;
     height: 500px;
     position: relative;
+    border: solid black 2px;
 }
 #boxred{
     background-color: red;
     width: 100px;
     height: 100px;
     position: sticky;
+    border: solid black 2px;
     top: 0%;
 }
 
@@ -22,6 +24,7 @@
     width: 100px;
     height: 100px;
     position: sticky;
+    border: solid black 2px;
     top: 2%;
 }
 
@@ -30,8 +33,10 @@
     width: 100px;
     height: 100px;
     position: fixed;
+    border: solid black 2px;
     left: 10%;
 }
+    border: solid black 2px;
 
 aside{
     width: 5%;
