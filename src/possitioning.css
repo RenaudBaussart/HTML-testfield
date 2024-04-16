@@ -32,9 +32,9 @@
     background-color: blue;
     width: 100px;
     height: 100px;
-    position: absolute;
+    position: fixed;
     border: solid black 2px;
-    left: 10%;
+    left: 6%;
 }
 #boxyellow{
     background-color: yellow;
