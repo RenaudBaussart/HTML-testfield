@@ -53,6 +53,10 @@
     top: 50%;
     left: 5%;
 }
+.flexsetup{
+    display: flex;
+    flex-direction: column;
+}
 
 aside{
     width: 5%;
