@@ -14,7 +14,7 @@
     background-color: red;
     width: 100px;
     height: 100px;
-    position: sticky;
+    position: static;
     border: solid black 2px;
     top: 0%;
 }
@@ -32,7 +32,7 @@
     background-color: blue;
     width: 100px;
     height: 100px;
-    position: fixed;
+    position: static;
     border: solid black 2px;
     left: 10%;
 }
