@@ -1,0 +1,10 @@
+.test, .test-bold {
+  color: aqua;
+  font-size: 15px;
+}
+
+.test-bold {
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=stylescss-test.css.map */

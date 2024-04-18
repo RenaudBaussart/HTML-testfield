@@ -1,0 +1,8 @@
+.test{
+    color: aqua;
+    font-size: 15px;
+}
+.test-bold{
+    @extend .test;
+    font-weight: bold;
+}
